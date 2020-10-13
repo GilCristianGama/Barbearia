@@ -60,7 +60,7 @@
         </div>
         <div class="card p-3">
             <blockquote class="text-center blockquote mb-0">
-                <p><strong> Relaxamento</strong>
+                <p><strong> Relaxament</strong>
                 </p>
                 <footer class="blockquote-footer">
                     <small class="text-muted">
