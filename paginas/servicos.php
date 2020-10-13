@@ -1,5 +1,6 @@
 <h2 class="text-center">
-    Servicos
+    Servic
+
 </h2>
 <hr>
 <p class="text-center dark"> O que oferecemos</p>
@@ -56,7 +57,7 @@
                     </small>
                 </footer>
             </blockquote>
-        </div>   
+        </div>
         <div class="card p-3">
             <blockquote class="text-center blockquote mb-0">
                 <p><strong> Relaxamento</strong>
