@@ -1,7 +1,5 @@
 <h1>Produtos</h1>
 
-
-
 <div class="container">
     <div class="row">
         <div class="col">
